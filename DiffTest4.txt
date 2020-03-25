@@ -1,0 +1,11 @@
+diff --git a/c.txt b/c.txt
+index a9377b2..ec2ea80 100644
+--- a/c.txt
++++ b/c.txt
+@@ -1,2 +1,5 @@
+-New header record
++-- Inserted new line in the -change- middle --
++
+ and added a new line
++
++More lines
