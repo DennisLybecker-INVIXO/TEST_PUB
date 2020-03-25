@@ -1,1 +1,2 @@
-file C
+New header record
+and added a new line
