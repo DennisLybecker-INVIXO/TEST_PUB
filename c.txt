@@ -1,2 +1,3 @@
 New header record
+ -- Inserted new line in the middle --
 and added a new line
