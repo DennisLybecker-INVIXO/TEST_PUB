@@ -1,1 +1,4 @@
 Release info file
+Version 5: 
+  Feature 5 has been added
+  File a.txt deleted
