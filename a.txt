@@ -1,3 +1,0 @@
-This is a file
-with two lines
-and a third line in a new branch
